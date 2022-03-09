@@ -31,11 +31,11 @@ message pour annoncer le gagnant</li>
 
 <div align="center">
 	<br>
-	<img src="Description du projet/img.png" width="800" height="400">
+	<img src="Description du projet/img.png" >
 	<br>
 </div>
 <div align="center">
 	<br>
-	<img src="Description du projet/img2.png" width="800" height="400">
+	<img src="Description du projet/img2.png" >
 	<br>
 </div>
